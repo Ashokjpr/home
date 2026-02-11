@@ -34,7 +34,7 @@ function TopNavbar() {
         <ul className="flex flex-row gap-4 justify-center items-center py-2">
           <li><a href="/">Home1</a></li>
           <li><a href="/homepage-second">Home2</a></li>
-          <li><a href="/homepage-second">Home3</a></li>
+          <li><a href="/homepage-third">Home3</a></li>
         </ul>
         <hr className="border" />
       </div>
