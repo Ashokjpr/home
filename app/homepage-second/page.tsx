@@ -1,5 +1,6 @@
 'use client';
 import "./styles.css";
+import TopSlider from "../TopNavbar";
 
 function page() {
     return (
@@ -14,6 +15,7 @@ function page() {
 
             {/* <!-- Deconstructed Header --> */}
             <header>
+                  <TopSlider />
                 <nav>
                     <div className="logo">
                         <img src="./arise-logo.png" />

@@ -1,12 +1,15 @@
 'use client'
 import "./styles.css";
+import TopSlider from "./TopNavbar";
 
 function page() {
+    
   return (
    <>
   
     {/* <!-- Header --> */}
     <header>
+        <TopSlider />
         <nav>
             <div className="logo"><img src="/arise-logo.png" /></div>
             <ul>

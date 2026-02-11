@@ -1,5 +1,6 @@
 'use client'
 import "./styles.css";
+import TopSlider from "../TopNavbar";
 
 function page() {
     
@@ -8,6 +9,7 @@ function page() {
    
     {/* <!-- Sophisticated Header --> */}
     <header>
+          <TopSlider />
         <nav>
             <div className="logo"><img src="./arise-logo.png" /></div>
             <ul className="nav-links">
