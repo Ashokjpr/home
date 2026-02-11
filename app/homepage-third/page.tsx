@@ -13,11 +13,12 @@ function page() {
         <nav>
             <div className="logo"><img src="./arise-logo.png" /></div>
             <ul className="nav-links">
-                <li><a href="#programs">Programs</a></li>
-                <li><a href="#approach">Our Approach</a></li>
-                <li><a href="#success">Success Stories</a></li>
-                <li><a href="#about">About</a></li>
-                <li><a href="#contact">Contact</a></li>
+                <li><a href="">Home</a></li>
+                <li><a href="">Courses</a></li>
+                <li><a href="">Contact Us</a></li>
+                <li><a href="">Registration Fees</a></li>
+                <li><a href="">Blog</a></li>
+                <li><a href="">Gallery</a></li>
             </ul>
             <a href="#enroll" className="nav-cta">Get Started</a>
         </nav>

@@ -15,10 +15,18 @@ function page() {
             <ul>
                 <li><a href="">Home</a></li>
                 <li><a href="">Courses</a></li>
-                <li><a href="">Features</a></li>
-                <li><a href="">Success Stories</a></li>
-                <li><a href="">Contact</a></li>
+                <li><a href="">Contact Us</a></li>
+                <li><a href="">Registration Fees</a></li>
+                <li><a href="">Blog</a></li>
+                <li><a href="">Gallery</a></li>
             </ul>
+            <a
+  href="#enroll"
+  className="flex text-center items-center justify-center bg-red-600 -skew-x-12 rounded-sm hover:bg-red-800 text-white font-bold  px-6 py-3 rounded-full h-10 w-35"
+>
+  Enroll Now
+</a>
+
         </nav>
     </header>
 

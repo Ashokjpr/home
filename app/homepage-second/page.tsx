@@ -21,10 +21,12 @@ function page() {
                         <img src="./arise-logo.png" />
                     </div>
                     <ul className="nav-menu">
-                        <li><a href="#programs">Programs</a></li>
-                        <li><a href="#features">Features</a></li>
-                        <li><a href="#success">Success</a></li>
-                        <li><a href="#contact">Contact</a></li>
+                       <li><a href="">Home</a></li>
+                        <li><a href="">Courses</a></li>
+                        <li><a href="">Contact Us</a></li>
+                        <li><a href="">Registration Fees</a></li>
+                        <li><a href="">Blog</a></li>
+                        <li><a href="">Gallery</a></li>
                     </ul>
                     <div className="nav-cta">
                         <a href="#enroll" className="btn-header">Enroll Now</a>
