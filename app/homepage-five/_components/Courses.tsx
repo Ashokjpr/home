@@ -10,7 +10,7 @@ import {
 } from "lucide-react";
 
 const categories = [
-  { name: "FMGE Rapid Revision", icon: BookOpen },
+  { name: "FMGE Rapid Revision", icon: BookOpen, active: false},
   { name: "FMGE Regular Course", icon: GraduationCap },
   { name: "FMGE Regular Online Course", icon: Monitor },
   { name: "FMGE Semi Regular Course", icon: Stethoscope },
